@@ -268,9 +268,10 @@ Here's a recap of all the tasks you've accomplished in your repository:
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-
 ---
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+![Navaneeth](https://user-images.githubusercontent.com/113263218/189548331-595d9a03-daf5-4357-bd4c-5eebd2f318d6.jpg)
