@@ -1,5 +1,5 @@
 <!--
-  <<< Author notes: Header of the course >>>
+  # <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
@@ -10,7 +10,7 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
-  <<< Author notes: Start of the course >>>
+  ## <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
@@ -97,7 +97,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 <details id=2>
-<summary><h2>Step 2: Add an image</h2></summary>
+## <summary><h2>Step 2: Add an image</h2></summary>
 
 _Great job adding headers to the file :sparkles:_
 
@@ -124,7 +124,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 </details>
 
 <!--
-  <<< Author notes: Step 3 >>>
+ ### <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
@@ -163,7 +163,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 </details>
 
 <!--
-  <<< Author notes: Step 4 >>>
+ ### <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
@@ -211,7 +211,7 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
 </details>
 
 <!--
-  <<< Author notes: Step 5 >>>
+ ### <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
@@ -231,7 +231,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 </details>
 
 <!--
-  <<< Author notes: Finish >>>
+ ### <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
 
@@ -268,9 +268,18 @@ Here's a recap of all the tasks you've accomplished in your repository:
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-
 ---
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+![Navaneeth](https://user-images.githubusercontent.com/113263218/189548331-595d9a03-daf5-4357-bd4c-5eebd2f318d6.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
